@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yangyeontae-blip/yangyeontae-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 안녕하세요, 양연태입니다 🎭
 
-Here are some ideas to get you started:
+**교육과 사회를 함께 생각하고, 교육연극을 실천하는 교사**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+교실에서 시작된 질문을 수업과 이야기, 작은 도구로 이어 갑니다.
+
+</div>
+
+---
+
+### 제가 관심 있는 것
+
+- **교육과 사회** · 학생의 삶과 배움이 만나는 자리, 학교 안팎의 관계와 기회를 살핍니다.
+- **교육연극** · 역할을 맡고 서로의 이야기를 들어 보는 경험을 수업에 담습니다.
+- **배움을 돕는 도구** · 학생이 즐겁게 시도하고 다시 도전할 수 있는 활동을 만듭니다.
+
+### 교실에서 만든 것
+
+#### 🌳 [베리숲 모험학교](https://yangyeontae-blip.github.io/math/)
+
+초등학교 1~6학년 수학을 숲 탐험으로 만나는 3D 학습 게임입니다. 학생이 문제를 풀고, 힌트를 살피고, 다시 도전하며 자기 속도로 배울 수 있도록 만들었습니다.
+
+[게임 해 보기](https://yangyeontae-blip.github.io/math/) · [프로젝트 살펴보기](https://github.com/yangyeontae-blip/math)
+
+### 교실에서 이어 가고 싶은 질문
+
+> 학생은 언제 자기 목소리로 말할 수 있을까?  
+> 이야기를 함께 만드는 경험은 배움을 어떻게 바꿀까?  
+> 누구나 참여할 수 있는 수업은 어떤 모습일까?
+
+교육, 연극, 기술이 교실에서 만나는 과정을 이곳에 기록합니다.
