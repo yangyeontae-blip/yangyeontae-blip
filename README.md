@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/education-theatre-illustration-v2.png" alt="젊은 남성 교사가 학생들과 함께 교실을 작은 무대로 만드는 모습을 그린 생성 일러스트" width="100%">
+<img src="./assets/education-theatre-personalized.png" alt="양연태 교사의 사진을 참고해, 학생들과 교육연극을 함께하는 모습을 그린 일러스트" width="100%">
 
 # 안녕하세요, 양연태입니다 🎭
 
@@ -22,9 +22,9 @@
 
 <div align="center">
 
-<img src="./assets/classroom-theatre-photo-v2.png" alt="젊은 남성 교사와 학생들이 교실에서 역할극 활동을 하는 장면을 표현한 생성 사진풍 이미지" width="760">
+<img src="./assets/classroom-theatre-personalized.png" alt="양연태 교사의 사진을 참고해, 학생들의 역할극을 돕는 모습을 그린 일러스트" width="760">
 
-<sub>교육연극의 교실을 표현한 생성 이미지 · 실제 수업 현장 사진은 아닙니다.</sub>
+<sub>제 사진을 참고해 만든 교육연극 일러스트 · 실제 수업 현장 기록 사진은 아닙니다.</sub>
 
 </div>
 
